@@ -8,10 +8,13 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/oopConcepts.iml" filepath="$PROJECT_DIR$/oopConcepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPConcepts.iml" filepath="$PROJECT_DIR$/OOPConcepts.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_12" project-jdk-name="12" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
   </component>
 </project>
