@@ -39,6 +39,7 @@ public class ArrayExample {
                 copyArray[indexCopyArray]=numereIntregi[i];
                 indexCopyArray++;
             }*/
+            //test git
         }
     }
 
