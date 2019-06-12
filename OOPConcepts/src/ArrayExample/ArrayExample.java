@@ -3,7 +3,7 @@ package ArrayExample;
 public class ArrayExample {
     public static void main(String args[]){
         int[] numereIntregi=new int[10];
-        numereIntregi[0]=5;
+        numereIntregi[0]=6;
         numereIntregi[1]=10;
         numereIntregi[2]=8;
 
