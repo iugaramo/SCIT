@@ -18,6 +18,7 @@ public class ArrayExample {
         int indexCopyArray=0;
         int primulNrImpar=0;
 
+        //
         for(int i=0;i<numereIntregi.length;i++) {
             System.out.println(numereIntregi[i]);
             System.out.println(copyArray[i]);
